@@ -1,3 +1,4 @@
+
 /*
 Repo: https://github.com/bmoren/p5.collide2D/
 Created by http://benmoren.com
@@ -7,7 +8,7 @@ CC BY-NC-SA 4.0
 */
 
 
-console.log("### p5.collide v0.7.3 ###")
+console.log()
 
 p5.prototype._collideDebug = false;
 
